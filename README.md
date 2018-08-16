@@ -155,7 +155,7 @@ plt.show()
 
 
 
-![png](output_6_1.png)
+![png](https://github.com/poooocket/CarND-Vehicle-Detection-master/blob/master/README/output_6_1.png)
 
 
 ## Explore HOG Fearures
@@ -231,7 +231,7 @@ plt.show()
 ```
 
 
-![png](output_9_0.png)
+![png](https://github.com/poooocket/CarND-Vehicle-Detection-master/blob/master/README/output_9_0.png)
 
 
 Pararmeters orient=16 will give better orientations, pix_per_cell=8 will arrive at better shapes, cell_per_block=2 & cell_per_block=4 has nearly the same performance.
@@ -304,7 +304,7 @@ plt.show()
 ```
 
 
-![png](output_12_0.png)
+![png](https://github.com/poooocket/CarND-Vehicle-Detection-master/blob/master/README/output_12_0.png)
 
 
 The intensity of features in YUV color space are exactly same as it in YCrCb color space. YCrCb and LUV color space give the stronger intensity of features.
@@ -491,27 +491,27 @@ for file in img_files:
 ```
 
 
-![png](output_23_0.png)
+![png](https://github.com/poooocket/CarND-Vehicle-Detection-master/blob/master/README/output_23_0.png)
 
 
 
-![png](output_23_1.png)
+![png](https://github.com/poooocket/CarND-Vehicle-Detection-master/blob/master/README/output_23_1.png)
 
 
 
-![png](output_23_2.png)
+![png](https://github.com/poooocket/CarND-Vehicle-Detection-master/blob/master/README/output_23_2.png)
 
 
 
-![png](output_23_3.png)
+![png](https://github.com/poooocket/CarND-Vehicle-Detection-master/blob/master/README/output_23_3.png)
 
 
 
-![png](output_23_4.png)
+![png](https://github.com/poooocket/CarND-Vehicle-Detection-master/blob/master/README/output_23_4.png)
 
 
 
-![png](output_23_5.png)
+![png](https://github.com/poooocket/CarND-Vehicle-Detection-master/blob/master/README/output_23_5.png)
 
 
 ## Use hog sub-sampling window search to improve searching efficience
@@ -610,27 +610,27 @@ for file in img_files:
 ```
 
 
-![png](output_26_0.png)
+![png](https://github.com/poooocket/CarND-Vehicle-Detection-master/blob/master/README/output_26_0.png)
 
 
 
-![png](output_26_1.png)
+![png](https://github.com/poooocket/CarND-Vehicle-Detection-master/blob/master/README/output_26_1.png)
 
 
 
-![png](output_26_2.png)
+![png](https://github.com/poooocket/CarND-Vehicle-Detection-master/blob/master/README/output_26_2.png)
 
 
 
-![png](output_26_3.png)
+![png](https://github.com/poooocket/CarND-Vehicle-Detection-master/blob/master/README/output_26_3.png)
 
 
 
-![png](output_26_4.png)
+![png](https://github.com/poooocket/CarND-Vehicle-Detection-master/blob/master/README/output_26_4.png)
 
 
 
-![png](output_26_5.png)
+![png](https://github.com/poooocket/CarND-Vehicle-Detection-master/blob/master/README/output_26_5.png)
 
 
 ## Apply a heat threshold to remove false detections
@@ -715,7 +715,7 @@ plt.show()
 ```
 
 
-![png](output_31_0.png)
+![png](https://github.com/poooocket/CarND-Vehicle-Detection-master/blob/master/README/output_31_0.png)
 
 
 
